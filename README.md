@@ -1,2 +1,2 @@
 # MIPSDB
-A Debugger for MIPS
+O projeto pretende facilitar o uso e aprendizado da linguagem de programação MIPS. Essa linguagem que é do tipo Assembly possui um nível de complexidade superior a outras linguagens de alto nível, uma vez que suas intruções são passadas com pouca abstração em relação ao que é compilado por um processado. Dado essas características, o projeto aqui armazenado visa facilitar o ato de Debugar um código nessa linguagem ao permitir por meio de um terminal a verifição de erros. Tal verificação permite o uso de diferentes formatos de inserção de código, como console ou importação de arquivos. Além disso, funcionalidades como leitura da mudança de valores dos registradores , breakpoints, entre outros são presentes.
